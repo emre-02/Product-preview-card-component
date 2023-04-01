@@ -17,12 +17,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Screenshot
 
 ![](images/product.png)
-![](images/product-responsive)
+![](images/product-responsive.png)
 
 ### Links
 
-- [Solution URL](https://github.com/emre-02/QR-code-component)
-- [Live Site URL](https://emre-02.github.io/QR-code-component/)
+- [Solution URL](https://github.com/emre-02/Product-preview-card-component)
+- [Live Site URL](https://emre-02.github.io/Product-preview-card-component/)
 
 ## My process
 
